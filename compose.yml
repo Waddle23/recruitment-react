@@ -1,0 +1,6 @@
+services:
+  fe-login:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: fe-login
