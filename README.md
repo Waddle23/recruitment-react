@@ -89,3 +89,11 @@ Create a React-based web application for an online book store that allows users 
 -   Testing coverage and quality
 
 This project specification covers various aspects of React development and should provide a comprehensive assessment of your skills and proficiency in core React concepts.
+
+## Design Idea
+
+![Login Page](image.png)
+![Sign Up](image-1.png)
+![Browse Page](image-2.png)
+![Book View](image-3.png)
+![Checkout](image-4.png)
